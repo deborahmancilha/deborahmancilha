@@ -1,16 +1,26 @@
-### Hi there 👋
+### Olá, eu sou a Deborah Mancilha 🧚
 
-<!--
-**deborahmancilha/deborahmancilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+![Snake animation](https://github.com/rafaballerini/deborahmancilha/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+- 🔭 QA/Analista de Testes na Blue Service BPM Platform. - QA/Software Test Analyst at Blue Service BPM Platform.
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas (UNIP). - I’m currently learning System Development (UNIP).
+- ⚡ Estudando também Automação de Testes Web. - Also learning Web Testing Automation.
+- 💬 Contato - Contact: deborahmancilha@outlook.com | www.linkedin.com/in/deborahmancilha
+- ⚡ Fato interessante: Sou viciada em Animal Crossing e essa é a minha segunda faculdade. - Fun fact: Addicted to Animal Crossing and it is my second graduation.
+##
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=deborahmancilha&theme=merko&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahmancilha&layout=compact&theme=merko" />
+</a>
+
+
+
+
+
