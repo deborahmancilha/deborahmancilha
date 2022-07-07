@@ -12,7 +12,7 @@
 
 <img align="right" height="150" style="border-radius:50px;" src="https://blogger.googleusercontent.com/img/a/AVvXsEil8gw4bLiLXWVmZ7pyNKASiAIGBkDG4WZGeDnqb92Np2xe6tRnLxUTAaVrDTn_0SPjcKB62QHOpj99bWFj7bSHM0gZfZDOLdI19ddv7-JL50qD60zn56t-558K3RLD-k59AluqgAzi9RTR4XsXVILFpikTi3PNH7ZNJriryrtVf6TgYF4luoAfYqTLTw?width=676&height=676">
 
-- 🔭 QA/Analista de Testes na Blue Service BPM Platform. - QA/Software Test Analyst at Blue Service BPM Platform.
+- 🔭 QA Jr na Accenture. - QA Jr at Accenture.
 - 🌱 Recém-formada em Desenvolvimento de Sistemas (UNIP). - I’m currently learning System Development (UNIP).
 - ⚡ Estudando também Automação de Testes Web. - Also learning Web Testing Automation.
 - 💬 Contato - Contact: deborahmancilha@outlook.com | www.linkedin.com/in/deborahmancilha
